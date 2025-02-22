@@ -168,11 +168,11 @@ const Home = () => {
 
         <div className="mt-10 lg:mt-0 lg:w-1/2 flex justify-center">
           <div className="rounded-full overflow-hidden w-60 h-60 lg:w-96 lg:h-96 shadow-xl animate-slideIn border-4 border-[#48cae4]">
-            <img
-              src="src/assets/image2.jpg"
-              alt="Prajwal Jainkeri"
-              className="object-cover w-full h-full"
-            />
+          <img
+  src="src/assets/image2.jpg"
+  alt="Prajwal Jainkeri"
+  className="object-cover w-full h-full"
+/>
           </div>
         </div>
       </div>
