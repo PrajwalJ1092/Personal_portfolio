@@ -13,7 +13,7 @@ function Navbar() {
   return (
     <div className="flex justify-around chakra-petch-regular p-3 rounded-full mt-2 ml-3 mr-3 cursor-pointer relative">
       <div className="logo  text-4xl  text-[#ade8f4]">
-        <img className="h-20 w-20" src="src\assets\p-removebg-preview.png"  alt="" /></div>
+        <img className="h-20 w-20" src="https://i.ibb.co/fzjMbXvF/p-removebg-preview.png"  alt="" /></div>
 
       <div className="hidden md:block">
         <ul className="flex max-w-lg gap-x-16 text-xl font-semibold text-[#ade8f4] p-4 rounded-xl">

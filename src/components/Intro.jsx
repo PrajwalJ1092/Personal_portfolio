@@ -52,7 +52,7 @@ const Intro = () => {
           {/* Profile Image */}
           <div className="w-full md:w-1/2 xl:w-1/3 p-6 text-center" data-aos="zoom-in">
             <div className="about__me-image">
-              <img src="src/assets/image2.jpg" height={400} alt="" className="rounded-lg shadow-lg" />
+              <img src="https://i.ibb.co/QFXCJP3y/image2.jpggit " height={400} alt="" className="rounded-lg shadow-lg" />
             </div>
           </div>
 
